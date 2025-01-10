@@ -1,0 +1,6 @@
+@AdministrativeCorrespondenceSystem_HostAddress = http://localhost:5277
+
+GET {{AdministrativeCorrespondenceSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
